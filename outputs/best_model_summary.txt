@@ -1,0 +1,12 @@
+En İyi Model Özeti
+========================================
+
+En iyi model: SVM
+Accuracy: 0.9794
+Precision: 0.9437
+Recall: 0.8993
+F1: 0.9210
+ROC_AUC: 0.9859
+
+En iyi parametreler:
+{'feature_selection__k': 3000, 'model__estimator__C': 2.0, 'tfidf__max_features': 3000, 'tfidf__ngram_range': (1, 1)}

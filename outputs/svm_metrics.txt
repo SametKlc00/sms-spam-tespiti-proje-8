@@ -1,0 +1,8 @@
+SVM Model Performans Metrikleri
+========================================
+
+Accuracy: 0.9794
+Precision: 0.9315
+Recall: 0.9128
+F1: 0.9220
+ROC_AUC: 0.9850

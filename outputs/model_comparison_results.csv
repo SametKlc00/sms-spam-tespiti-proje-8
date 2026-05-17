@@ -1,0 +1,4 @@
+Model,Best_Params,Accuracy,Precision,Recall,F1,ROC_AUC
+SVM,"{'feature_selection__k': 3000, 'model__estimator__C': 2.0, 'tfidf__max_features': 3000, 'tfidf__ngram_range': (1, 1)}",0.979372197309417,0.9436619718309859,0.8993288590604027,0.9209621993127147,0.9858789445162368
+kNN,"{'feature_selection__k': 3000, 'model__n_neighbors': 3, 'tfidf__max_features': 3000, 'tfidf__ngram_range': (1, 2)}",0.9461883408071748,0.7986577181208053,0.7986577181208053,0.7986577181208053,0.9373497575277558
+ANN,"{'model__hidden_layer_sizes': (50,), 'svd__n_components': 200, 'tfidf__max_features': 5000, 'tfidf__ngram_range': (1, 2)}",0.9730941704035875,0.9407407407407408,0.8523489932885906,0.8943661971830986,0.98252323981825
